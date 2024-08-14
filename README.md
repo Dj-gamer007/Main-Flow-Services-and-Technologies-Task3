@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/python-developer-internship.git
+   git clone https://github.com/Dj-gamer007/python-developer-internship.git
    cd python-developer-internship/Task3
    ```
 
